@@ -21,6 +21,15 @@
   - [wallpaperengine](https://www.wallpaperengine.io/en)
     Використовуйте приголомшливі живі шпалери на робочому столі Windows. Анімуйте власні зображення для створення нових шпалер або імпортуйте відео та веб-сайти і діліться ними з іншими!
     [Якщо скупий](https://1progs.ru/wallpaper-engine/)
-- ## Программа для встановлення ос
-  - [flashr](https://flashr.ru/)
+- ## Програми для встановлення ос
+  - [flashr](https://flashr.ru/) - альтернатива для rufus
     ![flashr](screenshots/flashr.png)
+  - [aomei-backupper](https://www.aomeitech.com/aomei-backupper.html) - программа для бекапу вашої windows. [Я скупий](https://1progs.ru/aomei-backupper/)
+    ![aomei-backupper](screenshots/aomei-backupper.webp)
+- ## Tweaker`и
+  - [win10tweaker](https://win10tweaker.ru/)
+    ![win10tweaker](screenshots/Win-10-Tweaker.png)
+  - [ShadesTweaker](https://github.com/shadesofdeath/ShadesTweaker)
+    ![ShadesTweaker](screenshots/ShadesTweaker.jpg)
+  - [optimizer](https://github.com/hellzerg/optimizer)
+    ![optimizer](screenshots/optimizer.PNG)
