@@ -7,6 +7,8 @@
   - [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI)
     Додаток, написаний на C++ для модифікації панелі завдань Windows 11.
     ![TaskbarXI](screenshots/TaskbarXI_screenshot.png)
+  - [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Автоматично перемикається між темною та світлою темою Windows 10 і Windows 11
+    ![AutoDarkMode](screenshots/AutoDarkMode.png)
   - Робочій стіл
     - [wallpaperengine](https://www.wallpaperengine.io/en)
       Використовуйте приголомшливі живі шпалери на робочому столі Windows. Анімуйте власні зображення для створення нових шпалер або імпортуйте відео та веб-сайти і діліться ними з іншими!
@@ -35,5 +37,7 @@
     ![ShadesTweaker](screenshots/ShadesTweaker.jpg)
   - [optimizer](https://github.com/hellzerg/optimizer)
     ![optimizer](screenshots/optimizer.PNG)
+  - [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)
+    ![ThisIsWin11](screenshots/ThisIsWin11.png)
   - ## Маленькі корисні програми
     - [Minibin](https://github.com/king-tri-ton/minibin) - це невелика утиліта для очищення кошика в операційній системі Windows 10. Програма надає зручний спосіб звільнити місце на диску, позбувшись файлів у кошику.
