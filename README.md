@@ -10,13 +10,13 @@
   - [rainmeter](https://www.rainmeter.net/)
     Rainmeter дозволяє відображати настроювані скіни на робочому столі, від лічильників використання обладнання до повнофункціональних аудіовізуалізаторів.
     ![rainmeter](screenshots\rainmeter.png)
-    ## Скіни:
-    - [droptopfour](https://droptopfour.com)
-      Панель випадаючого меню та запуск додатків для Windows та Rainmeter
-      ![droptopfour](screenshots\droptopfour.webp)
-    - [JaxCore](https://github.com/Jax-Core/JaxCore)
-      Чудовий набір інструментів та віджетів, які прикрасять ваш робочий стіл.
-      ![JaxCore](screenshots\JaxCore.png)
+  ## Скіни:
+  - [droptopfour](https://droptopfour.com)
+    Панель випадаючого меню та запуск додатків для Windows та Rainmeter
+    ![droptopfour](screenshots\droptopfour.webp)
+  - [JaxCore](https://github.com/Jax-Core/JaxCore)
+    Чудовий набір інструментів та віджетів, які прикрасять ваш робочий стіл.
+    ![JaxCore](screenshots\JaxCore.png)
 - ## Красиві шпалери на робочій стіл
   - [wallpaperengine](https://www.wallpaperengine.io/en)
     Використовуйте приголомшливі живі шпалери на робочому столі Windows. Анімуйте власні зображення для створення нових шпалер або імпортуйте відео та веб-сайти і діліться ними з іншими!
